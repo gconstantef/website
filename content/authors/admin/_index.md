@@ -213,6 +213,5 @@ awards:
 
 ## About Me
 
-Welcome! I am currently a postdoctoral researcher at the Davidson School of Chemical Engineering at Purdue University under the advice of Prof. Can Li. I used to be a Buckeye! I received a Ph.D. degree in Electrical and Computer Engineering from The Ohio State University, advised by Prof. Antonio Conejo in 2022.
-I am passionate about developing analytic and algorithmic tools to analyze and mitigate modern power grids' challenges by blending concepts and techniques from mathematical optimization and machine learning. My research focuses on the planning and operation of energy and power systems. I am interested in working with large-scale and stochastic optimization problems, complementarity models, and machine learning algorithms.
-For more information about me, please view my CV here. Always happy to chat, so please feel free to reach out via Twitter or email.
+Welcome! I am currently a postdoctoral researcher at Purdue University under the advice of Prof. Can Li. I used to be a Buckeye! I received a Ph.D. degree in Electrical and Computer Engineering from The Ohio State University, advised by Prof. Antonio Conejo in 2022.
+My research focuses on the planning and operation of energy and power systems leveraging concepts and tools from mathematical programming and machine learning. I am always happy to chat, so please feel free to reach out via email.
