@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Gonzalo Constante
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gonzalo
+last_name: Constante Flores
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,83 +20,83 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Purdue University
+    url: https://purdue.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:geconsta@purdue.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/gconstantef
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/gconstantef
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/gconstantef
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=KFCcT3MAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9668-5889
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Optimization
+  - Machine Learning
+  - Power Systems
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Electrical and Computer Engineering
+    institution: The Ohio State University
+    date_start: 2018-08-01
+    date_end: 2022-12-22
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 3.96/4.0
+
+      Thesis on optimization models and techniques for the unit commitment problem of modern energy systems. Supervised by [Prof Antonio J. Conejo](https://u.osu.edu/conejo.1/). Presented papers at 4 conferences with 13 manuscripts being published in power systems and operations research journals including IEEE Transactions on Power Systems, Proceedings of the IEEE, European Journal of Operational Research, International Journal of Electrical Power & Energy Systems.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Scheduling of Power Units via Relaxation and Decomposition'
+      url: 'http://rave.ohiolink.edu/etdc/view?acc_num=osu1669958189437929'
+  - area: MSc Electrical and Computer Engineering
+    institution: The Ohio State University
+    date_start: 2016-08-01
+    date_end: 2018-07-15
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.95/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Optimization: Nonlinear and dynamic optimization, Complementarity models, Decomposition techniques, Stochastic optimization
+      - Power Systems: Analysis and operation, Electricity markets, Advanced topics in power systems, Advanced topics in sustainable energy
+      - Machine learning and Control theory: Linear systems theory, Nonlinear systems theory, Robust control, Reinforcement learning, Machine Learning
+  - area: BSc Electrical Engineering
+    institution: Escuela Politécnica Nacional
+    date_start: 2008-09-01
+    date_end: 2014-09-15
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.1/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Power systems: Analysis, Stability, Operations, Reliability
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral Scholar
+    company_name: Purdue University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Research Aide
+    company_name: Argonne National Laboratory
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -106,81 +106,101 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+  - position: Lecturer
+    company_name: Escuela Politécnica Nacional
+    company_url: 'https://epn.edu.ec/'
+    company_logo: ''
+    date_start: 2014-06-01
+    date_end: 2016-07-20
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, Julia, Matlab
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: JuMP, Pyomo, GAMS
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
-      - name: SQL
+      - name: DIgSILENT PowerFactory
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
 
 languages:
+  - name: Spanish
+    # percent: 100
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  #   percent: 75
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: 'IEEE PES Outstanding Dissertation Award, Finalist'
+    url: https://pes-gm.org/seattle-2024/for-students/call-for-nominations-outstanding-doctoral-dissertation/
+    date: '2024'
+    awarder: IEEE Power and Energy Society
+    # icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      This award recognizes the best emerging academic work that falls under the scope and enhances the mission of the IEEE Power and Energy Society.
+  - title: 'Presidential Fellowship'
+    url: https://gradsch.osu.edu/presidential-fellowship
+    date: '2022'
+    awarder: The Ohio State University
+    # icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      The Presidential Fellowship is the most prestigious award given by the Graduate School to recognize the outstanding scholarly accomplishments and potential of graduate students entering the final phase of their dissertation research or terminal degree project.
+  - title: 'Outstanding Reviewer'
+    date: '2019'
+    awarder: IEEE Transactions on Power Delivery
+    # icon: edx
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Outstanding reviewers are those recommended by editors for special recognition due to their exceptional review work.
+  - title: 'Fulbright Scholarship'
+    url: https://eca.state.gov/fulbright
+    date: '2016'
+    awarder: U.S. Department of State
+    # icon: datacamp
+    summary: |
+      The Fulbright Foreign Student Program awards merit0based grants for graduate students, young professionals and artists from abroad to study and conduct research in the United States.
+  - title: 'Knowledge Generation Program Award'
+    date: '2014'
+    awarder: Vice Presidency of Ecuador
+    # icon: edx
+    summary: |
+      The Knowledge Generation Program in Ecuador is a government initiative aimed at promoting research, science, technology, and innovation in the country. It focuses on strengthening national research and development capacities by supporting projects in strategic areas. The program provides funding, scholarships, and technical assistance to the best undergraduate students in higher education institutions.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome! I am currently a postdoctoral researcher at the Davidson School of Chemical Engineering at Purdue University under the advice of Prof. Can Li. I used to be a Buckeye! I received a Ph.D. degree in Electrical and Computer Engineering from The Ohio State University, advised by Prof. Antonio Conejo in 2022.
+I am passionate about developing analytic and algorithmic tools to analyze and mitigate modern power grids' challenges by blending concepts and techniques from mathematical optimization and machine learning. My research focuses on the planning and operation of energy and power systems. I am interested in working with large-scale and stochastic optimization problems, complementarity models, and machine learning algorithms.
+For more information about me, please view my CV here. Always happy to chat, so please feel free to reach out via Twitter or email.
