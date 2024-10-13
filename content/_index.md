@@ -40,17 +40,17 @@ sections:
         My research draws on tools and theories from optimization, which allows us to articulate goals, tradeoffs, and restrictions, machine learning and artificial intelligence, which helps us leverage data to understand and act on systems, and large-scale optimization techniques, which establish the framework for solving massive optimization problems arising in modern networked systems. 
     design:
       columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-    # design:
-    #   view: article-grid
-    #   columns: 2
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
