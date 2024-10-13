@@ -165,9 +165,9 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: IEEE PES Outstanding Dissertation Award, Finalist
-    url: https://pes-gm.org/seattle-2024/for-students/call-for-nominations-outstanding-doctoral-dissertation/
+    # url: https://pes-gm.org/seattle-2024/for-students/call-for-nominations-outstanding-doctoral-dissertation/
     date: '2024'
-    awarder: Coursera
+    awarder: IEEE Power and Energy Society
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends 
