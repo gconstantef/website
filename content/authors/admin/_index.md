@@ -168,42 +168,35 @@ awards:
     url: https://pes-gm.org/seattle-2024/for-students/call-for-nominations-outstanding-doctoral-dissertation
     date: '2024-07-25'
     awarder: IEEE Power and Energy Society
-    icon: coursera
+    # icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends 
-  # - title: 'IEEE PES Outstanding Dissertation Award, Finalist'
-  #   url: https://pes-gm.org/seattle-2024/for-students/call-for-nominations-outstanding-doctoral-dissertation/
-  #   date: '2024'
-  #   awarder: IEEE Power and Energy Society
-  #   # icon: coursera
-  #   summary:
-  #     This award recognizes the best emerging academic work that falls under the scope and enhances the mission of the IEEE Power and Energy Society.
-  # - title: 'Presidential Fellowship'
-  #   url: https://gradsch.osu.edu/presidential-fellowship
-  #   date: '2022'
-  #   awarder: The Ohio State University
-  #   # icon: edx
-  #   summary: |
-  #     The Presidential Fellowship is the most prestigious award given by the Graduate School to recognize the outstanding scholarly accomplishments and potential of graduate students entering the final phase of their dissertation research or terminal degree project.
-  # - title: 'Outstanding Reviewer'
-  #   date: '2019'
-  #   awarder: IEEE Transactions on Power Delivery
-  #   # icon: edx
-  #   summary: |
-  #     Outstanding reviewers are those recommended by editors for special recognition due to their exceptional review work.
-  # - title: 'Fulbright Scholarship'
-  #   url: https://eca.state.gov/fulbright
-  #   date: '2016'
-  #   awarder: U.S. Department of State
-  #   # icon: datacamp
-  #   summary: |
-  #     The Fulbright Foreign Student Program awards merit0based grants for graduate students, young professionals and artists from abroad to study and conduct research in the United States.
-  # - title: 'Knowledge Generation Program Award'
-  #   date: '2014'
-  #   awarder: Vice Presidency of Ecuador
-  #   # icon: edx
-  #   summary: |
-  #     The Knowledge Generation Program in Ecuador is a government initiative aimed at promoting research, science, technology, and innovation in the country. It focuses on strengthening national research and development capacities by supporting projects in strategic areas. The program provides funding, scholarships, and technical assistance to the best undergraduate students in higher education institutions.
+      This award recognizes the best emerging academic work that falls under the scope and enhances the mission of the IEEE Power and Energy Society.
+  - title: 'Presidential Fellowship'
+    url: https://gradsch.osu.edu/presidential-fellowship
+    date: '2022-01-01'
+    awarder: The Ohio State University
+    # icon: edx
+    summary: |
+      The Presidential Fellowship is the most prestigious award given by the Graduate School to recognize the outstanding scholarly accomplishments and potential of graduate students entering the final phase of their dissertation research or terminal degree project.
+  - title: 'Outstanding Reviewer'
+    date: '2019-12-01'
+    awarder: IEEE Transactions on Power Delivery
+    # icon: edx
+    summary: |
+      Outstanding reviewers are those recommended by editors for special recognition due to their exceptional review work.
+  - title: 'Fulbright Scholarship'
+    url: https://eca.state.gov/fulbright
+    date: '2016-07-22'
+    awarder: U.S. Department of State
+    # icon: datacamp
+    summary: |
+      The Fulbright Foreign Student Program awards merit0based grants for graduate students, young professionals and artists from abroad to study and conduct research in the United States.
+  - title: 'Knowledge Generation Program Award'
+    date: '2014-05-01'
+    awarder: Vice Presidency of Ecuador
+    # icon: edx
+    summary: |
+      The Knowledge Generation Program in Ecuador is a government initiative aimed at promoting research, science, technology, and innovation in the country. It focuses on strengthening national research and development capacities by supporting projects in strategic areas. The program provides funding, scholarships, and technical assistance to the best undergraduate students in higher education institutions.
 ---
 
 ## About Me
