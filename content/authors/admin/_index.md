@@ -165,8 +165,8 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: IEEE PES Outstanding Dissertation Award, Finalist
-    # url: https://pes-gm.org/seattle-2024/for-students/call-for-nominations-outstanding-doctoral-dissertation/
-    date: '2024'
+    url: https://pes-gm.org/seattle-2024/for-students/call-for-nominations-outstanding-doctoral-dissertation
+    date: '2024-07-25'
     awarder: IEEE Power and Energy Society
     icon: coursera
     summary: |
