@@ -153,9 +153,9 @@ skills:
 
 languages:
   - name: Spanish
-    # percent: 100
+    percent: 100
   - name: English
-  #   percent: 75
+    percent: 90
   # - name: Portuguese
   #   percent: 25
 
