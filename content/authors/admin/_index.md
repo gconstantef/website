@@ -213,5 +213,5 @@ awards:
 
 ## About Me
 
-Welcome! I am currently a postdoctoral researcher at Purdue University under the advice of Prof. Can Li. I used to be a Buckeye! I received a Ph.D. degree in Electrical and Computer Engineering from The Ohio State University, advised by Prof. Antonio Conejo in 2022.
+Welcome! I am currently a postdoctoral researcher at Purdue University under the advice of <a href="https://canli1.github.io/">Prof. Can Li </a>. I used to be a Buckeye! I received a Ph.D. degree in Electrical and Computer Engineering from The Ohio State University, advised by <a href="https://u.osu.edu/conejo.1/">Prof. Antonio Conejo </a> in 2022.
 My research focuses on the planning and operation of energy and power systems leveraging concepts and tools from mathematical programming and machine learning. I am always happy to chat, so please feel free to reach out via email.
