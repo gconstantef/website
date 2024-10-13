@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gonzalo Constante
+title: Gonzalo E. Constante
 
 # Name pronunciation (optional)
 name_pronunciation:
