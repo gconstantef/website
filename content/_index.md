@@ -32,14 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research interests lie in the intersection of optimization and control of power systems, data-driven planning and operation of sustainable energy systems, cyber-physical security for the future power grid, and integration of renewable energy and electric vehicles into electric power systems.
     design:
       columns: '1'
   - block: collection
