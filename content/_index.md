@@ -31,6 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: recent-news
     content:
       title: 'My Research'
       subtitle: ''
@@ -45,6 +46,7 @@ sections:
       title: 'Recent news'
       subtitle: ''
       text: |-
+        <div style="font-size: 10px;">
         - Aug. 13, 2023: Accepted! Our paper G. E. Constante-Flores, Antonio J. Conejo, and Feng Qiu, "Daily Scheduling of Generating Units with Natural-Gas Market Constraints" has been accepted for publication in the European Journal of Operational Research.
         - Jul. 17, 2023: I will be presenting our work in "Security-Constrained Unit Commitment: A Decomposition Approach Embodying Kron Reduction" at the International Conference in Stochastic Programming in Davis, CA.
         - Jun. 8, 2023: Accepted! Our paper G. E. Constante-Flores and Antonio J. Conejo, "Security-Constrained Unit Commitment: A Decomposition Approach Embodying Kron Reduction" has been accepted for publication in the European Journal of Operational Research. 
@@ -61,6 +63,7 @@ sections:
         - Aug. 21, 2018:  I started my Ph.D. in ECE at OSU!
         - Jul. 13, 2018:  Successfully passed my Master’s oral examination!
         - Jun. 15, 2018:  Presented the paper: Ziran Gao, Danielle Meyer, Jiankang Wang, “Visualizing the Impact of PEV Charging on the Power Grid” at ITEC 2018.  
+        <div>
     design:
       columns: '1'
   # - block: collection
