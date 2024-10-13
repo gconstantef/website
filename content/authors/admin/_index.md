@@ -134,15 +134,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python, Julia, Matlab
+      - name: Programming: Python, Julia, Matlab
         description: ''
         percent: 80
         icon: code-bracket
-      - name: JuMP, Pyomo, GAMS
+      - name: Optimization: JuMP, Pyomo, GAMS
         description: ''
         percent: 80
         icon: chart-bar
-      - name: DIgSILENT PowerFactory
+      - name: Power systems: DIgSILENT PowerFactory
         description: ''
         percent: 40
         icon: circle-stack
