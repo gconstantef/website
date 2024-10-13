@@ -92,9 +92,22 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Devise scientific machine learning frameworks for end-to-end learning of optimization problems satisfying hard constraints and providing strong provable bounds.
+      - Develop algorithms for large-scale problems arising at the integration of planning and operation decisions of highly electrified chemical industries.
+      - Design frameworks based on large language models to (i) analyze solutions and repair infeasible optimization problems and (ii) detect, identify, and diagnose faults in industrial processes.
+  - position: Graduate Research Assistant
+    company_name: The Ohio State University
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-08-01
+    date_end: '2022-12-31'
+    summary: |2-
+      Responsibilities include:
+      - Develop a unit commitment model with AC network constraints based on a second-order conic relaxation of the power flow equations and an algorithm to achieve an AC feasible solution.
+      - Design an algorithm based on Benders decomposition to address the AC network-constrained unit commitment problem of large-scale power systems.
+      - Propose a risk-aware network-constrained unit commitment model and an algorithm based on decomposition techniques to address the solution of large-scale power grids.
+      - Formulate a unit commitment model considering the optimal behavior of the natural-gas market and a solution method for large-scale systems based on an outer approximation algorithm.
+      - Devise a solution method for the corrective security-constrained unit commitment problem for large-scale power systems using a hybrid decomposition and a Kron-based network reduction technique.
   - position: Research Aide
     company_name: Argonne National Laboratory
     company_url: ''
@@ -103,20 +116,19 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Develop a tool to visualize and analyze the behavior of distribution networks based on a component-based aggregate load model.
+      - Investigate the physical feasibility of engaging plug-in electric vehicles to support a power grid with increasing renewable energy.
   - position: Lecturer
     company_name: Escuela Politécnica Nacional
     company_url: 'https://epn.edu.ec/'
     company_logo: ''
     date_start: 2014-06-01
     date_end: 2016-07-20
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # summary: |
+    #   Responsibilities include:
+    #   - Migrated infrastructure to a new data center
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
