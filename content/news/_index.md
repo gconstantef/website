@@ -1,4 +1,4 @@
 ---
 title: News
-view: list
+view: date-title
 ---
