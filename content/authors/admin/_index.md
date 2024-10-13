@@ -164,13 +164,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 'IEEE PES Outstanding Dissertation Award, Finalist'
-    url: https://pes-gm.org/seattle-2024/for-students/call-for-nominations-outstanding-doctoral-dissertation/
-    date: '2024'
-    awarder: IEEE Power and Energy Society
-    # icon: coursera
-    summary:
-      This award recognizes the best emerging academic work that falls under the scope and enhances the mission of the IEEE Power and Energy Society.
+  - title: Neural Networks and Deep Learning
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends 
+  # - title: 'IEEE PES Outstanding Dissertation Award, Finalist'
+  #   url: https://pes-gm.org/seattle-2024/for-students/call-for-nominations-outstanding-doctoral-dissertation/
+  #   date: '2024'
+  #   awarder: IEEE Power and Energy Society
+  #   # icon: coursera
+  #   summary:
+  #     This award recognizes the best emerging academic work that falls under the scope and enhances the mission of the IEEE Power and Energy Society.
   # - title: 'Presidential Fellowship'
   #   url: https://gradsch.osu.edu/presidential-fellowship
   #   date: '2022'
