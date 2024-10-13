@@ -35,9 +35,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        Efforts toward decarbonization have led to integrating new energy technologies into power systems—from electrification in transportation and industry and massive adoption of renewable resources to reliance on flexible resources and other critical infrastructures. Simultaneously, digitalization has increased large-scale grid monitoring and control, incorporating machine learning into decision-making processes. While these changes aim to enhance efficiency and sustainability, they introduce complex modeling and computational challenges, including (i) operating and planning under evolving, uncertain, decentralized environments, (ii) solving large, complex optimization models within limited time frames to mitigate risks associated with uncertainties, and (iii) increasing dependence on data-driven decision-making tools.
-
-        In light of these challenges, my research vision is to develop advanced operation and planning tools for large-scale electric energy systems, enabling efficient, reliable, and secure decarbonization. My research agenda is centered around analyzing, designing, and improving principled and data-driven models and solution algorithms to address the pressing challenges of sustainable electric energy systems.
+        I am passionate about developing advanced operation and planning tools for large-scale electric energy systems, enabling efficient, reliable, and secure decarbonization. My research agenda is centered around analyzing, designing, and improving principled and data-driven models and solution algorithms to address the pressing challenges of sustainable electric energy systems.
 
         My research draws on tools and theories from optimization, which allows us to articulate goals, tradeoffs, and restrictions, machine learning and artificial intelligence, which helps us leverage data to understand and act on systems, and large-scale optimization techniques, which establish the framework for solving massive optimization problems arising in modern networked systems. 
     design:
