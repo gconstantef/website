@@ -20,13 +20,16 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper presents a parametric quadratic approximation of the AC optimal power flow (AC-OPF) problem for time-sensitive and market-based applications. The parametric approximation preserves the physics-based but simple representation provided by the DC-OPF model and leverages market and physics information encoded in the data-driven demand-dependent parameters. To enable the deployment of the proposed model for real-time applications, we propose a supervised learning approach to predict near-optimal parameters, given a certain metric concerning the dispatch quantities and locational marginal prices (LMPs).  The training dataset is generated based on the solution of the accurate AC-OPF problem and a bilevel optimization problem, which calibrates parameters satisfying cost recovery and revenue adequacy. We show the proposed approach's performance in various test systems in terms of cost and dispatch approximation errors, LMPs, market properties satisfaction, dispatch feasibility, and generalizability with respect to N-1 network topologies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This work proposes a methodology to tune low-fidelity optimization models using machine learning techniques for electricity market applications.
 
 tags:
-- Large Language Models
+- Low fidelity models
+- Machine learning
+- Optimization
+- Surrogate models
 
 featured: true
 
