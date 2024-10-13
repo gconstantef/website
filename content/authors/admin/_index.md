@@ -52,7 +52,7 @@ interests:
   - Power Systems
 
 education:
-  - area: PhD Electrical and Computer Engineering
+  - area: PhD Electrical Engineering
     institution: The Ohio State University
     date_start: 2018-08-01
     date_end: 2022-12-22
@@ -63,7 +63,7 @@ education:
     button:
       text: 'Scheduling of Power Units via Relaxation and Decomposition'
       url: 'http://rave.ohiolink.edu/etdc/view?acc_num=osu1669958189437929'
-  - area: MSc Electrical and Computer Engineering
+  - area: MSc Electrical Engineering
     institution: The Ohio State University
     date_start: 2016-08-01
     date_end: 2018-07-15
@@ -134,15 +134,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Programming':' Python, Julia, Matlab
+      - name: 'Programming: Python, Julia, Matlab'
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Optimization':' JuMP, Pyomo, GAMS
+      - name: 'Optimization: JuMP, Pyomo, GAMS'
         description: ''
         percent: 80
         icon: chart-bar
-      - name: Power systems':' DIgSILENT PowerFactory
+      - name: 'Power systems: DIgSILENT PowerFactory'
         description: ''
         percent: 40
         icon: circle-stack
