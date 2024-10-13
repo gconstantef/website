@@ -48,10 +48,10 @@ sections:
       text: |-
         <div style="font-size: 14px;">
           <ul>
-          <li> Aug. 13, 2023: Accepted! Our paper G. E. Constante-Flores, Antonio J. Conejo, and Feng Qiu, "Daily Scheduling of Generating Units with Natural-Gas Market Constraints" has been accepted for publication in the European Journal of Operational Research. </li>
-          <li> Jul. 17, 2023: I will be presenting our work in "Security-Constrained Unit Commitment: A Decomposition Approach Embodying Kron Reduction" at the International Conference in Stochastic Programming in Davis, CA.</li>
-          <li> Jun. 8, 2023: Accepted! Our paper G. E. Constante-Flores and Antonio J. Conejo, "Security-Constrained Unit Commitment: A Decomposition Approach Embodying Kron Reduction" has been accepted for publication in the European Journal of Operational Research. </li>
-          # <li> Dec. 7, 2022:  I will be joining the group of Prof. Can li at Purdue University in January 2023 as a postdoctoral researcher.</li>
+          <li> <strong>Aug. 13, 2023:<strong> Accepted! Our paper G. E. Constante-Flores, Antonio J. Conejo, and Feng Qiu, "Daily Scheduling of Generating Units with Natural-Gas Market Constraints" has been accepted for publication in the European Journal of Operational Research. </li>
+          <li> <strong>Jul. 17, 2023:<strong> I will be presenting our work in "Security-Constrained Unit Commitment: A Decomposition Approach Embodying Kron Reduction" at the International Conference in Stochastic Programming in Davis, CA.</li>
+          <li> <strong>Jun. 8, 2023:<strong> Accepted! Our paper G. E. Constante-Flores and Antonio J. Conejo, "Security-Constrained Unit Commitment: A Decomposition Approach Embodying Kron Reduction" has been accepted for publication in the European Journal of Operational Research. </li>
+          <li> <strong>Dec. 7, 2022:<strong>  I will be joining the group of Prof. Can li at Purdue University in January 2023 as a postdoctoral researcher.</li>
           # <li> Nov. 15, 2022: I passed my Ph.D. oral exam!</li>
           # <li> Oct. 14, 2021: Accepted! Our paper: G. Constante-Flores, A. Conejo, J.K. Wang, “Stealthy Monitoring Control Attacks to Disrupt PowerSystem Operations” has been accepted for publication in Electric Power Systems Research.</li>
           # <li> Oct. 10, 2021: Accepted! Our paper: G. Constante-Flores, A. Conejo, Feng Qiu, “AC Network-Constrained Unit Commitment via Relaxation and Decomposition” has been accepted for publication in IEEE Transactions on Power Systems.</li>
