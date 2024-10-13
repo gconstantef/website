@@ -169,7 +169,7 @@ awards:
     date: '2024'
     awarder: IEEE Power and Energy Society
     # icon: coursera
-    summary: |
+    summary:
       This award recognizes the best emerging academic work that falls under the scope and enhances the mission of the IEEE Power and Energy Society.
   # - title: 'Presidential Fellowship'
   #   url: https://gradsch.osu.edu/presidential-fellowship
