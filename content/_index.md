@@ -46,7 +46,7 @@ sections:
       title: 'Recent news'
       subtitle: ''
       text: |-
-        <div style="font-size: 12px;">
+        <div style="font-size: 14px;">
           <ul>
           <li> Aug. 13, 2023: Accepted! Our paper G. E. Constante-Flores, Antonio J. Conejo, and Feng Qiu, "Daily Scheduling of Generating Units with Natural-Gas Market Constraints" has been accepted for publication in the European Journal of Operational Research. </li>
           <li> Jul. 17, 2023: I will be presenting our work in "Security-Constrained Unit Commitment: A Decomposition Approach Embodying Kron Reduction" at the International Conference in Stochastic Programming in Davis, CA.</li>
