@@ -18,9 +18,9 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-      button:
-        text: Download headshot
-        url: uploads/ConstanteGonzalo_headshot.jpg
+      # button:
+      #   text: Download headshot
+      #   url: uploads/ConstanteGonzalo_headshot.jpg
     design:
       css_class: dark
       background:
@@ -34,7 +34,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
-    id: recent-news
+    id: my-research
     content:
       title: 'My Research'
       subtitle: ''
