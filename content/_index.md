@@ -18,6 +18,7 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
+      button:
         text: Download headshot
         url: uploads/ConstanteGonzalo_headshot.jpg
     design:
