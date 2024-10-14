@@ -49,7 +49,8 @@ sections:
         <div style="font-size: 14px;">
           <ul>
           <li> <strong>Sep. 26, 2024:</strong> I will be presenting a poster  in "Learning to tune low-fidelity optimization models" at the launching event of the Center for Operations and Optimization in Process Systems (COOPS) at Purdue University.</li>
-          <li> <strong>July. 24, 2024:</strong> I will be presenting at the panel "Outstanding Doctoral Dissertation in Power and Energy Systems" at IEEE PES General Meeting in Seattle.</li>
+          <li> <strong>Jul. 24, 2024:</strong> I will be presenting at the panel "Outstanding Doctoral Dissertation in Power and Energy Systems" at IEEE PES General Meeting in Seattle.</li>
+          <li> <strong>May 3, 2024:</strong> Happy to announce that I have been selected as a finalist for the 2024 IEEE PES PEEC Outstanding Doctoral Dissertation Award.</li>
           <li> <strong>Aug. 13, 2023:</strong> Accepted! Our paper G. E. Constante-Flores, Antonio J. Conejo, and Feng Qiu, "Daily Scheduling of Generating Units with Natural-Gas Market Constraints" has been accepted for publication in the European Journal of Operational Research. </li>
           <li> <strong>Jul. 17, 2023:</strong> I will be presenting our work in "Security-Constrained Unit Commitment: A Decomposition Approach Embodying Kron Reduction" at the International Conference in Stochastic Programming in Davis, CA.</li>
           <li> <strong>Jun. 8, 2023:</strong> Accepted! Our paper G. E. Constante-Flores and Antonio J. Conejo, "Security-Constrained Unit Commitment: A Decomposition Approach Embodying Kron Reduction" has been accepted for publication in the European Journal of Operational Research. </li>
