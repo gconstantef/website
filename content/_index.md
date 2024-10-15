@@ -33,23 +33,11 @@ sections:
           size: cover
           position: center
           parallax: false
-  # - block: markdown
-  #   id: my-research
-  #   content:
-  #     title: 'My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       I am passionate about developing theory, algorithms, and models for large-scale optimization and machine learning with applications in power and energy systems, sustainability, advanced operation and planning tools for large-scale electric energy systems, enabling efficient, reliable, and secure decarbonization. My research agenda is centered around analyzing, designing, and improving principled and data-driven models and solution algorithms to address the pressing challenges of sustainable electric energy systems.
-
-  #       My research draws on theories and techniques from optimization, machine learning, and artificial intelligence with applications to energy systems. 
-  #   design:
-  #     columns: '1'
   - block: markdown
     content:
       title: 'Recent news'
       subtitle: ''
-      text: |-
-        <div style="font-size: 14px;">
+      text: <div style="font-size: 14px;">
           <ul>
           <li> <strong>Sep. 26, 2024:</strong> I will be presenting a poster  in "Learning to tune low-fidelity optimization models" at the launching event of the Center for Operations and Optimization in Process Systems (COOPS) at Purdue University.</li>
           <li> <strong>Jul. 24, 2024:</strong> I will be presenting at the panel "Outstanding Doctoral Dissertation in Power and Energy Systems" at IEEE PES General Meeting in Seattle.</li>
