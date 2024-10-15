@@ -37,7 +37,8 @@ sections:
     content:
       title: 'Recent news'
       subtitle: ''
-      text: <div style="font-size: 14px;">
+      text: |
+        <div style="font-size: 14px;">
           <ul>
           <li> <strong>Sep. 26, 2024:</strong> I will be presenting a poster  in "Learning to tune low-fidelity optimization models" at the launching event of the Center for Operations and Optimization in Process Systems (COOPS) at Purdue University.</li>
           <li> <strong>Jul. 24, 2024:</strong> I will be presenting at the panel "Outstanding Doctoral Dissertation in Power and Energy Systems" at IEEE PES General Meeting in Seattle.</li>
