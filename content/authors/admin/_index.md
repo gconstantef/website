@@ -163,11 +163,11 @@ skills:
   #       percent: 80
   #       icon: camera
 
-languages:
-  - name: Spanish
-    percent: 100
-  - name: English
-    percent: 90
+# languages:
+#   - name: Spanish
+#     percent: 100
+#   - name: English
+#     percent: 90
   # - name: Portuguese
   #   percent: 25
 
