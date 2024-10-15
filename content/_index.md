@@ -33,17 +33,17 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    id: my-research
-    content:
-      title: 'My Research'
-      subtitle: ''
-      text: |-
-        I am passionate about developing advanced operation and planning tools for large-scale electric energy systems, enabling efficient, reliable, and secure decarbonization. My research agenda is centered around analyzing, designing, and improving principled and data-driven models and solution algorithms to address the pressing challenges of sustainable electric energy systems.
+  # - block: markdown
+  #   id: my-research
+  #   content:
+  #     title: 'My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       I am passionate about developing theory, algorithms, and models for large-scale optimization and machine learning with applications in power and energy systems, sustainability, advanced operation and planning tools for large-scale electric energy systems, enabling efficient, reliable, and secure decarbonization. My research agenda is centered around analyzing, designing, and improving principled and data-driven models and solution algorithms to address the pressing challenges of sustainable electric energy systems.
 
-        My research draws on tools and theories from optimization, which allows us to articulate goals, tradeoffs, and restrictions, machine learning and artificial intelligence, which helps us leverage data to understand and act on systems, and large-scale optimization techniques, which establish the framework for solving massive optimization problems arising in modern networked systems. 
-    design:
-      columns: '1'
+  #       My research draws on theories and techniques from optimization, machine learning, and artificial intelligence with applications to energy systems. 
+  #   design:
+  #     columns: '1'
   - block: markdown
     content:
       title: 'Recent news'
