@@ -202,7 +202,7 @@ awards:
     awarder: U.S. Department of State
     # icon: datacamp
     summary: |
-      The Fulbright Foreign Student Program awards merit0based grants for graduate students, young professionals and artists from abroad to study and conduct research in the United States.
+      The Fulbright Foreign Student Program awards merit-based grants for graduate students, young professionals and artists from abroad to study graduate programs in the United States.
   - title: 'Knowledge Generation Program Award'
     date: '2014-05-01'
     awarder: Vice Presidency of Ecuador
