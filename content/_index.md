@@ -33,7 +33,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
+  - block: main-content
     content:
       title: 'Recent news'
       subtitle: ''
