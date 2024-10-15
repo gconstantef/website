@@ -103,7 +103,7 @@ sections:
       columns: 1
   - block: collection
     content:
-      title: Recent Publications
+      title: Peer-reviewed Journals
       text: ""
       filters:
         folders:
