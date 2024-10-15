@@ -73,7 +73,7 @@ education:
       Courses included:
       - Optimization: Nonlinear and dynamic optimization, Complementarity models, Decomposition techniques, Stochastic optimization
       - Power Systems: Analysis and operation, Electricity markets, Advanced topics in power systems, Advanced topics in sustainable energy
-      - Machine learning and Control theory: Linear systems theory, Nonlinear systems theory, Robust control, Reinforcement learning, Machine Learning
+      - Machine learning and Control theory: Linear systems theory, Nonlinear systems theory, Robust control, Stochastic Dynamical Systems, Reinforcement learning, Machine Learning
   - area: BSc Electrical Engineering
     institution: Escuela Politécnica Nacional
     date_start: 2008-09-01

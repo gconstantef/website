@@ -10,4 +10,7 @@ publication_types:
 - article-journal
 publication: '*INFOR: Information Systems and Operational Research*'
 doi: 10.1080/03155986.2024.2385189
+
+featured: true
+summary: This work introduces OptiChat, a system designed to process, revise, and explain optimization models through natural language dialogues.
 ---
