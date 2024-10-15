@@ -13,4 +13,5 @@ doi: 10.1080/03155986.2024.2385189
 
 featured: true
 summary: This work introduces OptiChat, a system designed to process, revise, and explain optimization models through natural language dialogues.
+abstract: OptiChat is an interactive dialogue system that facilitates seamless troubleshooting through natural language-based questions and requests by non-experts. OptiChat is an agent-based autonomous system that coordinates the user, the optimization model,  the optimization solver, and the Large Language Model.
 ---
