@@ -27,7 +27,7 @@ sections:
         color: "#333333"
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: gradient.svg
           filters:
             brightness: 1.0
           size: cover
